@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="_VdT5qf" resname="Error 404: Page not found. The requested URL could not be found on the server. Please check the URL for errors and try again">
+        <source>Error 404: Page not found. The requested URL could not be found on the server. Please check the URL for errors and try again</source>
+        <target>Erreur 404 : Page non trouvée. L'URL demandée n'a pas pu être trouvée sur le serveur. Veuillez vérifier l'absence d'erreurs dans l'URL et réessayer</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
