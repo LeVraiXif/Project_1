@@ -9,6 +9,42 @@
         <source>Error 404: Page not found. The requested URL could not be found on the server. Please check the URL for errors and try again</source>
         <target>Erreur 404 : Page non trouvée. L'URL demandée n'a pas pu être trouvée sur le serveur. Veuillez vérifier l'absence d'erreurs dans l'URL et réessayer</target>
       </trans-unit>
+      <trans-unit id="pCe8jiM" resname="ERROR 404">
+        <source>ERROR 404</source>
+        <target>Erreur 404</target>
+      </trans-unit>
+      <trans-unit id="VpfQPa7" resname="Features">
+        <source>Features</source>
+        <target>__Features</target>
+      </trans-unit>
+      <trans-unit id="nIcKpuX" resname="How it works">
+        <source>How it works</source>
+        <target>__How it works</target>
+      </trans-unit>
+      <trans-unit id="8jSMG6O" resname="Token info">
+        <source>Token info</source>
+        <target>__Token info</target>
+      </trans-unit>
+      <trans-unit id="tLWAqa2" resname="About us">
+        <source>About us</source>
+        <target>__About us</target>
+      </trans-unit>
+      <trans-unit id="uQSncVV" resname="Social media">
+        <source>Social media</source>
+        <target>__Social media</target>
+      </trans-unit>
+      <trans-unit id="SvpVv3r" resname="Terms of Service">
+        <source>Terms of Service</source>
+        <target>__Terms of Service</target>
+      </trans-unit>
+      <trans-unit id="UG.zlGI" resname="Privacy Policy">
+        <source>Privacy Policy</source>
+        <target>__Privacy Policy</target>
+      </trans-unit>
+      <trans-unit id="7NcOUYk" resname="Copyright © 2022. All Rights Reserved by">
+        <source>Copyright © 2022. All Rights Reserved by</source>
+        <target>__Copyright © 2022. All Rights Reserved by</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
