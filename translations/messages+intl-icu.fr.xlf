@@ -5,13 +5,21 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="pCe8jiM" resname="ERROR 404">
+        <source>ERROR 404</source>
+        <target>ERREUR 404</target>
+      </trans-unit>
       <trans-unit id="_VdT5qf" resname="Error 404: Page not found. The requested URL could not be found on the server. Please check the URL for errors and try again">
         <source>Error 404: Page not found. The requested URL could not be found on the server. Please check the URL for errors and try again</source>
         <target>Erreur 404 : Page non trouvée. L'URL demandée n'a pas pu être trouvée sur le serveur. Veuillez vérifier l'absence d'erreurs dans l'URL et réessayer</target>
       </trans-unit>
-      <trans-unit id="pCe8jiM" resname="ERROR 404">
-        <source>ERROR 404</source>
-        <target>ERREUR 404</target>
+      <trans-unit id="zIEZpu." resname="ERROR 403">
+        <source>ERROR 403</source>
+        <target>ERREUR 403</target>
+      </trans-unit>
+      <trans-unit id="qEBBFG5" resname="Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.">
+        <source>Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.</source>
+        <target>__Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.</target>
       </trans-unit>
       <trans-unit id="VpfQPa7" resname="Features">
         <source>Features</source>
@@ -45,13 +53,25 @@
         <source>Copyright © 2022. All Rights Reserved by</source>
         <target>__Copyright © 2022. All Rights Reserved by</target>
       </trans-unit>
-      <trans-unit id="zIEZpu." resname="ERROR 403">
-        <source>ERROR 403</source>
-        <target>ERREUR 403</target>
+      <trans-unit id="3Y7J8V2" resname="Connect Wallet">
+        <source>Connect Wallet</source>
+        <target>__Connect Wallet</target>
       </trans-unit>
-      <trans-unit id="qEBBFG5" resname="Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.">
-        <source>Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.</source>
-        <target>__Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.</target>
+      <trans-unit id="jilTt1X" resname="Please select a wallet to connect to this marketplace">
+        <source>Please select a wallet to connect to this marketplace</source>
+        <target>__Please select a wallet to connect to this marketplace</target>
+      </trans-unit>
+      <trans-unit id="E8UFmLB" resname="By connecting your wallet, you agree to our">
+        <source>By connecting your wallet, you agree to our</source>
+        <target>__By connecting your wallet, you agree to our</target>
+      </trans-unit>
+      <trans-unit id="bnFq1k8" resname="and our">
+        <source>and our</source>
+        <target>__and our</target>
+      </trans-unit>
+      <trans-unit id="3IpHBHQ" resname="Please download and install metamask extension !">
+        <source>Please download and install metamask extension !</source>
+        <target>__Please download and install metamask extension !</target>
       </trans-unit>
     </body>
   </file>

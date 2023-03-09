@@ -3,11 +3,11 @@
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-header">
-                         <h4 class="modals-title  mb-0" id="exampleModalLabel">Connect Wallet</h4>
+                         <h4 class="modals-title  mb-0" id="exampleModalLabel">{{ 'Connect Wallet'|trans }}</h4>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="icon-x"></i></button>
                     </div>
                     <div class="modal-body">
-                        <p class="mb-20">Please select a wallet to connect to this marketplace</p>
+                        <p class="mb-20">{{ 'Please select a wallet to connect to this marketplace'|trans }}</p>
                         <div class="connect-section">
                             <ul class="heading-list">
                                 <li><a href="#" class="connect-meta"><span><img src="{{ asset('assets/images/icons/meta-mask.png') }}" alt="Meta-mask-Image"></span>MetaMask</a></li>
@@ -16,9 +16,9 @@
                                 <li><a href="#"><span><img src="{{ asset('assets/images/icons/wallet.png') }}" alt="Wallet-Image"></span>WalletConnect</a></li>
                             </ul>
                         </div>
-                        <p>By connecting your wallet, you agree to our <a href="#">
-                            <span class="modal-title">Terms of Service </span></a>and our <a href="#">
-                            <span class="modal-title"> Privacy Policy</span></a>.</p>
+                        <p>{{ 'By connecting your wallet, you agree to our'|trans }} <a href="#">
+                            <span class="modal-title">{{ 'Terms of Service'|trans }} </span></a>{{ 'and our'|trans }} <a href="#">
+                            <span class="modal-title"> {{ 'Privacy Policy'|trans }}</span></a>.</p>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                        <p class="mb-20">Please download & install metamask extension!</p>
+                        <p class="mb-20">{{ 'Please download and install metamask extension !'|trans }}</p>
                         <div class="connect-section">
                             <ul class="heading-list">
                                 <li>

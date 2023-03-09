@@ -5,11 +5,11 @@
                         <div class="heaader-inner-area d-flex justify-content-between align-items-center">
                             <div class="gamfi-logo-area d-flex justify-content-between align-items-center">
                                 <div class="logo">
-                                    <a href="/"><img src="{{ asset('assets/images/logo.png') }}" alt="logo" /></a>
+                                    <a href={{ path('app_index') }}><img src="{{ asset('assets/images/logo.png') }}" alt="logo" /></a>
                                 </div>
                                 <div class="header-menu">
                                     <ul class="nav-menu">
-                                    <li><a href="/">Home</a></li>
+                                    <li><a href={{ path('app_index') }}>Home</a></li>
                                     <li><a href="project.html">Projects</a>
                                         <ul class="sub-menu">
                                             <li><a href="project-clasic.html">Projects Clasic 1</a></li>
