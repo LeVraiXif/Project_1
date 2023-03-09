@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="pCe8jiM" resname="ERROR 404">
         <source>ERROR 404</source>
-        <target>Erreur 404</target>
+        <target>ERREUR 404</target>
       </trans-unit>
       <trans-unit id="VpfQPa7" resname="Features">
         <source>Features</source>
@@ -44,6 +44,14 @@
       <trans-unit id="7NcOUYk" resname="Copyright © 2022. All Rights Reserved by">
         <source>Copyright © 2022. All Rights Reserved by</source>
         <target>__Copyright © 2022. All Rights Reserved by</target>
+      </trans-unit>
+      <trans-unit id="zIEZpu." resname="ERROR 403">
+        <source>ERROR 403</source>
+        <target>ERREUR 403</target>
+      </trans-unit>
+      <trans-unit id="qEBBFG5" resname="Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.">
+        <source>Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.</source>
+        <target>__Error 403: Forbidden. You don't have permission to access this resource on the server. This could be due to incorrect credentials or insufficient access rights. Please contact the website administrator for assistance.</target>
       </trans-unit>
     </body>
   </file>
